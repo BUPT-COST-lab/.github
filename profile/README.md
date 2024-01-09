@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, here is the homepage of Intelligent Cognitive Systems Laboratory (iCOST), Beijing University of Posts and Telecommunications
 
 <!--
 
@@ -10,8 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-The homepage of Intelligent Cognitive Systems Laboratory (iCOST), Beijing University of Posts and Telecommunications.
 
 ## Table of Contents
 

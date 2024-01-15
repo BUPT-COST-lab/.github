@@ -37,9 +37,9 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### 2D Human Pose Estimation
 
-[**TIP2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)] [[code](https://github.com/YHDang/pose-estimation)]
+[**PR2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://arxiv.org/pdf/2207.10971.pdf)] [[code](https://github.com/YHDang/KIMNet)]
 
-[-] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://arxiv.org/pdf/2207.10971.pdf)] [[code](https://github.com/YHDang/KIMNet)]
+[**TIP2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)] [[code](https://github.com/YHDang/pose-estimation)]
 
 [-] DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation [[code](https://github.com/YHDang/DHRNet)]
 
@@ -127,7 +127,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [-] SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2304.08304)]
 
-## Last update: Jan 9, 2024
+## Last update: Jan 15, 2024
 
 Feel free to contact us at 7858833@bupt.edu.cn, or zsj@bupt.edu.cn.
 

@@ -41,6 +41,8 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [**TIP2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)] [[code](https://github.com/YHDang/pose-estimation)]
 
+[**KBS2024**] April-GCN: Adjacency Position-velocity Relationship Interaction Learning GCN for Human motion prediction [[paper](https://authors.elsevier.com/sd/article/S0950-7051(24)00248-X)] 
+
 [-] DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation [[code](https://github.com/YHDang/DHRNet)]
 
 [-] BiHRNet: A Binary high-resolution network for Human Pose Estimation [[paper](https://arxiv.org/abs/2311.10296)]

@@ -88,9 +88,9 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### Skeleton-based Human Action Recognition
 
-[**RAS2020**] DWnet: Deep-wide network for 3D action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308176)] [[code](https://github.com/YHDang/DWnet)]
+[TCSVT 2024] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.16018)] [[code](https://github.com/BUPTSJZhang/SiT-MLP)]
 
-[-] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.16018)] [[code](https://github.com/BUPTSJZhang/SiT-MLP)]
+[**RAS2020**] DWnet: Deep-wide network for 3D action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308176)] [[code](https://github.com/YHDang/DWnet)]
 
 [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2312.15144)] [[code](https://github.com/BUPTSJZhang/STD-CL)]
 

@@ -38,9 +38,9 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### 2D Human Pose Estimation
 
-[**PR2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://arxiv.org/pdf/2207.10971.pdf)] [[code](https://github.com/YHDang/KIMNet)]
+[**PR 2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://arxiv.org/pdf/2207.10971.pdf)] [[code](https://github.com/YHDang/KIMNet)]
 
-[**TIP2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)] [[code](https://github.com/YHDang/pose-estimation)]
+[**TIP 2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)] [[code](https://github.com/YHDang/pose-estimation)]
 
 [-] DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation [[code](https://github.com/YHDang/DHRNet)]
 
@@ -48,29 +48,29 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### 3D Human Pose Estimation
 
-[**AAAI2024**] Lifting by Image - Leveraging Image Cues for Accurate 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2312.15636)]
+[**AAAI 2024**] Lifting by Image - Leveraging Image Cues for Accurate 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2312.15636)]
 
 ### 3D Human Motion Prediction
 
-[**KBS2024**] April-GCN: Adjacency Position-velocity Relationship Interaction Learning GCN for Human motion prediction [[paper](https://authors.elsevier.com/sd/article/S0950-7051(24)00248-X)] 
+[**KBS 2024**] April-GCN: Adjacency Position-velocity Relationship Interaction Learning GCN for Human motion prediction [[paper](https://authors.elsevier.com/sd/article/S0950-7051(24)00248-X)] 
 
-[**TNNLS2023**] Learning Constrained Dynamic Correlations in Spatiotemporal Graphs for Motion Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/10138910)] [[code](https://github.com/Jaakk0F/DSTD-GCN)]
+[**TNNLS 2023**] Learning Constrained Dynamic Correlations in Spatiotemporal Graphs for Motion Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/10138910)] [[code](https://github.com/Jaakk0F/DSTD-GCN)]
 
-[**TCSVT2023**] Collaborative Multi-Dynamic Pattern Modeling for Human Motion Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/10025861)]
+[**TCSVT 2023**] Collaborative Multi-Dynamic Pattern Modeling for Human Motion Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/10025861)]
 
-[**TCSVT2022**] Towards more realistic human motion prediction with attention to motion coordination [[paper](https://ieeexplore.ieee.org/abstract/document/9745623/)]
+[**TCSVT 2022**] Towards more realistic human motion prediction with attention to motion coordination [[paper](https://ieeexplore.ieee.org/abstract/document/9745623/)]
 
-[**TCSVT2021**] TrajectoryCNN: a new spatio-temporal feature learning network for human motion prediction [[paper](https://ieeexplore.ieee.org/document/9186039)] [[code](https://github.com/lily2lab/TrajectoryCNN)]
+[**TCSVT 2021**] TrajectoryCNN: a new spatio-temporal feature learning network for human motion prediction [[paper](https://ieeexplore.ieee.org/document/9186039)] [[code](https://github.com/lily2lab/TrajectoryCNN)]
 
-[**Neurocomputing2024**] Physics-constrained Attack against Convolution-based Human Motion Prediction [[paper](https://arxiv.org/abs/2306.11990)] [[code](https://github.com/ChengxuDuan/advHMP)]
+[**Neurocomputing 2024**] Physics-constrained Attack against Convolution-based Human Motion Prediction [[paper](https://arxiv.org/abs/2306.11990)] [[code](https://github.com/ChengxuDuan/advHMP)]
 
-[**Neurocomputing2022**] Temporal consistency two-stream CNN for human motion prediction [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014892?via%3Dihub)]
+[**Neurocomputing 2022**] Temporal consistency two-stream CNN for human motion prediction [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014892?via%3Dihub)]
 
-[**机器人2022**] 面向人体动作预测的对称残差网络 [[paper](https://robot.sia.cn/cn/article/doi/10.13973/j.cnki.robot.210188#:~:text=%E6%91%98%E8%A6%81%3A%20%E4%B8%BA%E4%BA%86%E7%A0%94%E7%A9%B6%E4%B8%8D%E5%90%8C%E6%AE%8B%E5%B7%AE%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E5%AF%B9%E4%BA%BA%E4%BD%93%E5%8A%A8%E4%BD%9C%E9%A2%84%E6%B5%8B%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%8C%E6%8E%A2%E8%AE%A8%E4%BA%86%E5%9C%A8%E4%BF%9D%E6%8C%81%E7%BD%91%E7%BB%9C%E6%B7%B1%E5%BA%A6%E4%B8%80%E5%AE%9A%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E6%AE%8B%E5%B7%AE%E8%BF%9E%E6%8E%A5%E6%9E%84%E6%88%90%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E6%8D%95%E6%8D%89%E4%BA%BA%E4%BD%93%E5%8A%A8%E4%BD%9C%E7%89%B9%E5%BE%81%E7%9A%84%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B%E3%80%82%20%E9%80%9A%E8%BF%87%E8%A7%82%E5%AF%9F%E4%BA%BA%E4%BD%93%E9%AA%A8%E9%AA%BC%E5%85%B3%E8%8A%82%E7%82%B9%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%8F%90%E5%87%BA%E4%B8%80%E7%A7%8D%E9%80%82%E7%94%A8%E4%BA%8E%E4%BA%BA%E4%BD%93%E9%AA%A8%E9%AA%BC%E5%85%B3%E8%8A%82%E7%82%B9%E9%A2%84%E6%B5%8B%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%AE%8B%E5%B7%AE%E8%BF%9E%E6%8E%A5%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B9%B6%E5%9F%BA%E4%BA%8E%E8%AF%A5%E6%96%B9%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%BA%86%E5%AF%B9%E7%A7%B0%E6%AE%8B%E5%B7%AE%E5%9D%97,%28symmetric%20residual%20block%EF%BC%8CSRB%29%E3%80%82)]
+[**机器人 2022**] 面向人体动作预测的对称残差网络 [[paper](https://robot.sia.cn/cn/article/doi/10.13973/j.cnki.robot.210188#:~:text=%E6%91%98%E8%A6%81%3A%20%E4%B8%BA%E4%BA%86%E7%A0%94%E7%A9%B6%E4%B8%8D%E5%90%8C%E6%AE%8B%E5%B7%AE%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E5%AF%B9%E4%BA%BA%E4%BD%93%E5%8A%A8%E4%BD%9C%E9%A2%84%E6%B5%8B%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%8C%E6%8E%A2%E8%AE%A8%E4%BA%86%E5%9C%A8%E4%BF%9D%E6%8C%81%E7%BD%91%E7%BB%9C%E6%B7%B1%E5%BA%A6%E4%B8%80%E5%AE%9A%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E6%AE%8B%E5%B7%AE%E8%BF%9E%E6%8E%A5%E6%9E%84%E6%88%90%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E6%8D%95%E6%8D%89%E4%BA%BA%E4%BD%93%E5%8A%A8%E4%BD%9C%E7%89%B9%E5%BE%81%E7%9A%84%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B%E3%80%82%20%E9%80%9A%E8%BF%87%E8%A7%82%E5%AF%9F%E4%BA%BA%E4%BD%93%E9%AA%A8%E9%AA%BC%E5%85%B3%E8%8A%82%E7%82%B9%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%8F%90%E5%87%BA%E4%B8%80%E7%A7%8D%E9%80%82%E7%94%A8%E4%BA%8E%E4%BA%BA%E4%BD%93%E9%AA%A8%E9%AA%BC%E5%85%B3%E8%8A%82%E7%82%B9%E9%A2%84%E6%B5%8B%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%AE%8B%E5%B7%AE%E8%BF%9E%E6%8E%A5%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B9%B6%E5%9F%BA%E4%BA%8E%E8%AF%A5%E6%96%B9%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%BA%86%E5%AF%B9%E7%A7%B0%E6%AE%8B%E5%B7%AE%E5%9D%97,%28symmetric%20residual%20block%EF%BC%8CSRB%29%E3%80%82)]
 
-[**MPE2020**] A Hierarchical Static-Dynamic Encoder-Decoder Structure for 3D Human Motion Prediction with Residual CNNs [[paper](https://www.hindawi.com/journals/mpe/2020/7064910/)] [[code](https://github.com/liujin0/SDnet)]
+[**MPE 2020**] A Hierarchical Static-Dynamic Encoder-Decoder Structure for 3D Human Motion Prediction with Residual CNNs [[paper](https://www.hindawi.com/journals/mpe/2020/7064910/)] [[code](https://github.com/liujin0/SDnet)]
 
-[**Cognitive Computation and Systems2020**] Stacked residual blocks based encoder–decoder framework for human motion prediction[[code](https://github.com/lily2lab/residual_prediction_network)]
+[**Cognitive Computation and Systems 2020**] Stacked residual blocks based encoder–decoder framework for human motion prediction[[code](https://github.com/lily2lab/residual_prediction_network)]
 
 [-]Uncertainty-aware Human Motion Prediction [[paper](https://scholar.google.com/scholar?oi=bibs&cluster=11543079145147482533&btnI=1&hl=en)]
 
@@ -80,61 +80,61 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 
 ### Early Action Prediction
-[**TIP2024**] Rich Action-semantic Consistent Knowledge for Early Action Prediction [[paper](https://www.semanticscholar.org/reader/7ec7b4929c73ade2c926b65e88bdefaa03148115)] [[code](https://github.com/lily2lab/RACK)]
+[**TIP 2024**] Rich Action-semantic Consistent Knowledge for Early Action Prediction [[paper](https://www.semanticscholar.org/reader/7ec7b4929c73ade2c926b65e88bdefaa03148115)] [[code](https://github.com/lily2lab/RACK)]
 
-[**ICCSIP2022**] A discussion of data sampling strategies for early action prediction [[paper](https://link.springer.com/chapter/10.1007/978-981-16-9247-5_24)]
+[**ICCSIP 2022**] A discussion of data sampling strategies for early action prediction [[paper](https://link.springer.com/chapter/10.1007/978-981-16-9247-5_24)]
 
-[**中国自动化大会2023**] An end-to-end multi-scale network for action prediction in videos
+[**中国自动化大会 2023**] An end-to-end multi-scale network for action prediction in videos
 
 ### Skeleton-based Human Action Recognition
 
-[**TCSVT2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/document/10495051)] [[code](https://github.com/BUPTSJZhang/SiT-MLP)]
+[**TCSVT 2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/document/10495051)] [[code](https://github.com/BUPTSJZhang/SiT-MLP)]
 
-[**RAS2020**] DWnet: Deep-wide network for 3D action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308176)] [[code](https://github.com/YHDang/DWnet)]
+[**RAS 2020**] DWnet: Deep-wide network for 3D action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308176)] [[code](https://github.com/YHDang/DWnet)]
 
 [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2312.15144)] [[code](https://github.com/BUPTSJZhang/STD-CL)]
 
 ### Uncertainty-aware Scene Understanding with Point Clouds
 
-[**TGRS2023**] Neighborhood Spatial Aggregation MC Dropout for Efficient Uncertainty-aware Semantic Segmentation in Point Clouds [[paper](https://ieeexplore.ieee.org/document/10247069/)] [[code](https://github.com/chaoqi7/Uncertainty_Estimation_PCSS)]
+[**TGRS 2023**] Neighborhood Spatial Aggregation MC Dropout for Efficient Uncertainty-aware Semantic Segmentation in Point Clouds [[paper](https://ieeexplore.ieee.org/document/10247069/)] [[code](https://github.com/chaoqi7/Uncertainty_Estimation_PCSS)]
 
-[**TCSVT2023**] Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows [[paper](https://ieeexplore.ieee.org/document/10164228/)] [[code](https://github.com/chaoqi7/GPL3D)]
+[**TCSVT 2023**] Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows [[paper](https://ieeexplore.ieee.org/document/10164228/)] [[code](https://github.com/chaoqi7/GPL3D)]
 
-[**TIM2020**] Multigranularity Semantic Labeling of Point Clouds for the Measurement of the Rail Tanker Component With Structure Modeling [[paper](https://ieeexplore.ieee.org/document/9207911/)] [[code](https://github.com/chaoqi7/Multi-granularity-Semantic-Labeling-with-Structure-Modeling-TIM)]
+[**TIM 2020**] Multigranularity Semantic Labeling of Point Clouds for the Measurement of the Rail Tanker Component With Structure Modeling [[paper](https://ieeexplore.ieee.org/document/9207911/)] [[code](https://github.com/chaoqi7/Multi-granularity-Semantic-Labeling-with-Structure-Modeling-TIM)]
 
-[**ICRA2021**] Neighborhood Spatial Aggregation based Efficient Uncertainty Estimation for Point Cloud Semantic Segmentation  [[paper](https://ieeexplore.ieee.org/document/9560972/)] [[code](https://github.com/chaoqi7/Uncertainty_Estimation_PCSS)]
+[**ICRA 2021**] Neighborhood Spatial Aggregation based Efficient Uncertainty Estimation for Point Cloud Semantic Segmentation  [[paper](https://ieeexplore.ieee.org/document/9560972/)] [[code](https://github.com/chaoqi7/Uncertainty_Estimation_PCSS)]
 
-[**Tsinghua Science and Technology2023**] Dynamic Scene Graph Generation of Point Clouds with Structural Representation Learning [[paper](https://ieeexplore.ieee.org/document/10225283/)]
+[**Tsinghua Science and Technology 2023**] Dynamic Scene Graph Generation of Point Clouds with Structural Representation Learning [[paper](https://ieeexplore.ieee.org/document/10225283/)]
 
 ### Audio Visual Learning
 
-[**TMM2023**] Leveraging the Video-level Semantic Consistency of Event for Audio-visual Event Localization [[paper](https://ieeexplore.ieee.org/abstract/document/10286391)] [[code](https://github.com/Bravo5542/VSCG)]
+[**TMM 2023**] Leveraging the Video-level Semantic Consistency of Event for Audio-visual Event Localization [[paper](https://ieeexplore.ieee.org/abstract/document/10286391)] [[code](https://github.com/Bravo5542/VSCG)]
 
-[**EMNLP2023**] Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamic Audio-Visual Scenarios [[paper](https://aclanthology.org/2023.findings-emnlp.630/)] [[code](https://github.com/Bravo5542/TJSTG)]
+[**EMNLP 2023**] Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamic Audio-Visual Scenarios [[paper](https://aclanthology.org/2023.findings-emnlp.630/)] [[code](https://github.com/Bravo5542/TJSTG)]
 
-[**计算机应用2021**] 基于关键帧筛选网络的视听联合动作识别 [[paper](http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021060995)]
+[**计算机应用 2021**] 基于关键帧筛选网络的视听联合动作识别 [[paper](http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021060995)]
 
 [-] Past Future Motion Guided Network for Audio Visual Event Localization [[paper](https://arxiv.org/abs/2205.03802v1)]
 
 ### Medical Image Segmentation
-[**IEEE-CYBER2023**] Multi-task Learning Network for CT Whole Heart Segmentation [[paper](https://ieeexplore.ieee.org/document/10256432)]
+[**IEEE-CYBER 2023**] Multi-task Learning Network for CT Whole Heart Segmentation [[paper](https://ieeexplore.ieee.org/document/10256432)]
 
-[**Biomedical Signal Processing and Control2022**] DC-net: Dual-Consistency Semi-Supervised Learning for 3D Left Atrium Segmentation from MRI [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809422003858)]
+[**Biomedical Signal Processing and Control 2022**] DC-net: Dual-Consistency Semi-Supervised Learning for 3D Left Atrium Segmentation from MRI [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809422003858)]
 
 ### Adversarial Attack
 
-[**Neurocomputing**] Physics-constrained attack against convolution-based human motion prediction [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224000432?via%3Dihub)]
+[**Neurocomputing 2023**] Physics-constrained attack against convolution-based human motion prediction [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224000432?via%3Dihub)]
 
 ### Others
 [**MTAP2023**] Transfer the global knowledge for current gaze estimation [[paper](https://link.springer.com/article/10.1007/s11042-023-17484-2)]
 
-[**TCSVT2021**] Energy-based Periodicity Mining with Deep Features for Action Repetition Counting in Unconstrained Videos [[paper](https://ieeexplore.ieee.org/document/9339959)] [[code](https://github.com/BUPT-COST-lab/ActionCounting)]
+[**TCSVT 2021**] Energy-based Periodicity Mining with Deep Features for Action Repetition Counting in Unconstrained Videos [[paper](https://ieeexplore.ieee.org/document/9339959)] [[code](https://github.com/BUPT-COST-lab/ActionCounting)]
 
-[**ROBIO2019**]DBNet: A New Generalized Structure Efficient for Classification [[paper](https://ieeexplore.ieee.org/abstract/document/8961680/)] [[code](https://github.com/YHDang/DBNet)]
+[**ROBIO 2019**]DBNet: A New Generalized Structure Efficient for Classification [[paper](https://ieeexplore.ieee.org/abstract/document/8961680/)] [[code](https://github.com/YHDang/DBNet)]
 
 [-] SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2304.08304)]
 
-## Last update: Jan 15, 2024
+## Last update: Apr 23, 2024
 
 Feel free to contact us at 7858833@bupt.edu.cn, or zsj@bupt.edu.cn.
 

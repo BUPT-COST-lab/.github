@@ -124,9 +124,9 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### Audio and Speech Processing
 
-[**ICPR 2024**] Full-frequency dynamic convolution: a physical frequency-dependent convolution for sound event detection [[paper](https://arxiv.org/abs/2401.04976)] [[code]([https://github.com/Bravo5542/TJSTG]]
+[**ICPR 2024**] Full-frequency dynamic convolution: a physical frequency-dependent convolution for sound event detection [[paper](https://arxiv.org/abs/2401.04976)] [[code](https://github.com/Harper812/FFDConv)]
 
-[**Interspeech 2024**]  MFF-EINV2: Multi-scale Feature Fusion across Spectral-Spatial-Temporal Domains for Sound Event Localization and Detection [[paper](https://arxiv.org/pdf/2406.08771)]
+[**Interspeech 2024**]  MFF-EINV2: Multi-scale Feature Fusion across Spectral-Spatial-Temporal Domains for Sound Event Localization and Detection [[paper](https://arxiv.org/pdf/2406.08771)] [[code](https://github.com/muuda/MFF-EINV2)]
 
 ### Medical Image Segmentation
 

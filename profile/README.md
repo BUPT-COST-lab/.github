@@ -20,8 +20,10 @@
   - [3D Human Motion Prediction](#3d-human-motion-prediction)
   - [Early Action Prediction](#early-action-prediction)
   - [Skeleton-based Human Action Recognition](#skeleton-based-human-action-recognition)
+  - [Group Activity Recognition](#group-activity-recognition)
   - [Uncertainty-aware Scene Understanding with Point Clouds](#uncertainty-aware-scene-understanding-with-point-clouds)
   - [Audio-Visual Learning](#audio-visual-learning)
+  - [Audio and Speech Processing](#audio-and-speech-processing)
   - [Medical Image Segmentation](#medical-image-segmentation)
   - [Adversarial Attack](#adversarial-attack)
   - [Others](#others)
@@ -42,7 +44,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [**TIP 2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)] [[code](https://github.com/YHDang/pose-estimation)]
 
-[-] DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation [[code](https://github.com/YHDang/DHRNet)]
+[**KBS 2024**] DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation [[code](https://github.com/YHDang/DHRNet)]
 
 [-] BiHRNet: A Binary high-resolution network for Human Pose Estimation [[paper](https://arxiv.org/abs/2311.10296)]
 
@@ -80,6 +82,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 
 ### Early Action Prediction
+
 [**TIP 2024**] Rich Action-semantic Consistent Knowledge for Early Action Prediction [[paper](https://www.semanticscholar.org/reader/7ec7b4929c73ade2c926b65e88bdefaa03148115)] [[code](https://github.com/lily2lab/RACK)]
 
 [**ICCSIP 2022**] A discussion of data sampling strategies for early action prediction [[paper](https://link.springer.com/chapter/10.1007/978-981-16-9247-5_24)]
@@ -93,6 +96,9 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 [**RAS 2020**] DWnet: Deep-wide network for 3D action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308176)] [[code](https://github.com/YHDang/DWnet)]
 
 [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2312.15144)] [[code](https://github.com/BUPTSJZhang/STD-CL)]
+
+### Group Activity Recognition
+[**KBS2024**] To-be-added
 
 ### Uncertainty-aware Scene Understanding with Point Clouds
 
@@ -116,7 +122,14 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [-] Past Future Motion Guided Network for Audio Visual Event Localization [[paper](https://arxiv.org/abs/2205.03802v1)]
 
+### Audio and Speech Processing
+
+[**ICPR 2024**] Full-frequency dynamic convolution: a physical frequency-dependent convolution for sound event detection [[paper](https://arxiv.org/abs/2401.04976)] [[code]([https://github.com/Bravo5542/TJSTG]]
+
+[**Interspeech 2024**]  MFF-EINV2: Multi-scale Feature Fusion across Spectral-Spatial-Temporal Domains for Sound Event Localization and Detection [[paper](https://arxiv.org/pdf/2406.08771)]
+
 ### Medical Image Segmentation
+
 [**IEEE-CYBER 2023**] Multi-task Learning Network for CT Whole Heart Segmentation [[paper](https://ieeexplore.ieee.org/document/10256432)]
 
 [**Biomedical Signal Processing and Control 2022**] DC-net: Dual-Consistency Semi-Supervised Learning for 3D Left Atrium Segmentation from MRI [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809422003858)]
@@ -134,7 +147,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [-] SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2304.08304)]
 
-## Last update: Apr 23, 2024
+## Last update: August 22, 2024
 
 Feel free to contact us at 7858833@bupt.edu.cn, or zsj@bupt.edu.cn.
 

@@ -98,7 +98,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2312.15144)] [[code](https://github.com/BUPTSJZhang/STD-CL)]
 
 ### Group Activity Recognition
-[**KBS2024**] To-be-added
+[**KBS 2024**] MLP-AIR: An effective MLP-based module for actor interaction relation learning in group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124010876)]
 
 ### Uncertainty-aware Scene Understanding with Point Clouds
 

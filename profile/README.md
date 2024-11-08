@@ -114,6 +114,8 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### Audio Visual Learning
 
+[**IJCV 2024**] CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual [[paper](https://arxiv.org/abs/2405.07451)]
+
 [**TMM 2023**] Leveraging the Video-level Semantic Consistency of Event for Audio-visual Event Localization [[paper](https://ieeexplore.ieee.org/abstract/document/10286391)] [[code](https://github.com/Bravo5542/VSCG)]
 
 [**EMNLP 2023**] Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamic Audio-Visual Scenarios [[paper](https://aclanthology.org/2023.findings-emnlp.630/)] [[code](https://github.com/Bravo5542/TJSTG)]
@@ -139,6 +141,9 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 [**Neurocomputing 2023**] Physics-constrained attack against convolution-based human motion prediction [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224000432?via%3Dihub)]
 
 ### Others
+
+[**RAL 2024**] ViewInfer3D: 3D Visual Grounding Based on Embodied Viewpoint Inference [[paper](https://ieeexplore.ieee.org/document/10592798)]
+
 [**MTAP2023**] Transfer the global knowledge for current gaze estimation [[paper](https://link.springer.com/article/10.1007/s11042-023-17484-2)]
 
 [**TCSVT 2021**] Energy-based Periodicity Mining with Deep Features for Action Repetition Counting in Unconstrained Videos [[paper](https://ieeexplore.ieee.org/document/9339959)] [[code](https://github.com/BUPT-COST-lab/ActionCounting)]

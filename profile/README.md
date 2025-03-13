@@ -26,6 +26,7 @@
   - [Audio and Speech Processing](#audio-and-speech-processing)
   - [Medical Image Segmentation](#medical-image-segmentation)
   - [Adversarial Attack](#adversarial-attack)
+  - [3D Reconstruction](#3d-reconstruction)
   - [Others](#others)
 
 ## Introduction
@@ -140,6 +141,14 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [**Neurocomputing 2023**] Physics-constrained attack against convolution-based human motion prediction [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224000432?via%3Dihub)]
 
+[-] Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation [[paper](https://arxiv.org/abs/2409.10071)]
+
+### 3D Reconstruction
+
+[-] OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation [[[paper](https://arxiv.org/abs/2404.15891)]
+
+[-] GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting [[paper](https://arxiv.org/pdf/2503.05161)]
+
 ### Others
 
 [**RAL 2024**] ViewInfer3D: 3D Visual Grounding Based on Embodied Viewpoint Inference [[paper](https://ieeexplore.ieee.org/document/10592798)]
@@ -152,7 +161,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [-] SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2304.08304)]
 
-## Last update: August 22, 2024
+## Last update: March 13, 2025
 
-Feel free to contact us at 7858833@bupt.edu.cn, or zsj@bupt.edu.cn.
+Feel free to contact us at a7858833@bupt.edu.cn, or zsj@bupt.edu.cn.
 

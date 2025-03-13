@@ -143,6 +143,12 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [-] Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation [[paper](https://arxiv.org/abs/2409.10071)]
 
+### Micro Expression Recognition
+
+[**IEEE Transactions on Affective Computing 2025**] Facial 3D Regional Structural Motion Representation Using Lightweight Point Cloud Networks for Micro-Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10856363)]
+
+[-] Micro-expression recognition based on depth map to point cloud [[paper](https://arxiv.org/abs/2406.07918)]
+
 ### 3D Reconstruction
 
 [-] OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation [[[paper](https://arxiv.org/abs/2404.15891)]

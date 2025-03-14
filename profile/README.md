@@ -115,7 +115,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### Audio Visual Learning
 
-[**IJCV 2024**] CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual [[paper](https://arxiv.org/abs/2405.07451)]
+[**IJCV 2024**] CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering [[paper](https://arxiv.org/abs/2405.07451)]
 
 [**TMM 2023**] Leveraging the Video-level Semantic Consistency of Event for Audio-visual Event Localization [[paper](https://ieeexplore.ieee.org/abstract/document/10286391)] [[code](https://github.com/Bravo5542/VSCG)]
 
@@ -167,7 +167,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [-] SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2304.08304)]
 
-## Last update: March 13, 2025
+## Last update: March 14, 2025
 
 Feel free to contact us at a7858833@bupt.edu.cn, or zsj@bupt.edu.cn.
 

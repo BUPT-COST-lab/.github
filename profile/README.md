@@ -92,11 +92,14 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 ### Skeleton-based Human Action Recognition
 
+[**PR 2025**] A Generically Contrastive Spatiotemporal Representation Enhancement for 3D Skeleton Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325001815)] [[code](https://github.com/zhshj0110/CSRE)]
+
+[**ROBIO 2024**] Temporal Text Prompts for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10907305)]
+
 [**TCSVT 2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/document/10495051)] [[code](https://github.com/BUPTSJZhang/SiT-MLP)]
 
 [**RAS 2020**] DWnet: Deep-wide network for 3D action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308176)] [[code](https://github.com/YHDang/DWnet)]
 
-[-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2312.15144)] [[code](https://github.com/BUPTSJZhang/STD-CL)]
 
 ### Group Activity Recognition
 [**KBS 2024**] MLP-AIR: An effective MLP-based module for actor interaction relation learning in group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124010876)]
@@ -167,7 +170,7 @@ In the Intelligent Cognitive Systems Laboratory, we encourage communication and 
 
 [-] SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2304.08304)]
 
-## Last update: March 14, 2025
+## Last update: March 17, 2025
 
 Feel free to contact us at a7858833@bupt.edu.cn, or zsj@bupt.edu.cn.
 
